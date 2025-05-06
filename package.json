@@ -23,7 +23,7 @@
     "@babel/polyfill": "^7.2.5",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^2.1.4",
     "un": "0.0.0"
   },
