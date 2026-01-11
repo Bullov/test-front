@@ -24,7 +24,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^2.1.4",
+    "react-scripts": "^5.0.1",
     "un": "0.0.0"
   },
   "devDependencies": {
@@ -38,6 +38,6 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.1.14"
+    "webpack-dev-server": "^5.2.2"
   }
 }
